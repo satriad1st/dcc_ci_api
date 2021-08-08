@@ -8,9 +8,12 @@ Setup using this repo
 
 Requirement
 =======
-[PHP] (https://www.php.net/)  Version 7.2 or Highest;
-[MySQL] (https://www.mysql.com/);
-[XAMPP] (https://www.apachefriends.org/index.html) Or Another Web Server;
+[PHP] (https://www.php.net/)  Version 7.2 or Highest
+
+[MySQL] (https://www.mysql.com/)
+
+[XAMPP] (https://www.apachefriends.org/index.html) Or Another Web Server
+
 
 
 Set up project on php server (XAMPP/Linux). 
